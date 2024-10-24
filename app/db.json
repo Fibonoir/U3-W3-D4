@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "email": "fake@gmial.com",
+      "password": "$2a$10$Fgw8SHg8O/14Yzzvg.8avO2hFZG.ZPsy9YqDjKNCLry6w32K.eKvC",
+      "name": "giovanni",
+      "id": 1
+    },
+    {
+      "email": "fake@gmail.com",
+      "password": "$2a$10$S4QhTsBk839Asdc44sxzgOep2XyzxFxgVNjN7wsp39QXLZppZOqUe",
+      "name": "fake",
+      "id": 2
+    },
+    {
+      "email": "fake2@gmail.com",
+      "password": "$2a$10$GFo69NGq9oe8CNKncVgzR.P9AEg2/7t55ICPHWZ9dAr6pm1HNLEPy",
+      "name": "giovanni",
+      "id": 3
+    },
+    {
+      "email": "fake3@gmail.com",
+      "password": "$2a$10$NWWmziNDWTTrslZ2esgLrO4M.IVTCUoEkp9WP7jjpmGnyYax7EuPm",
+      "name": "giovanni",
+      "id": 4
+    }
+  ]
+}

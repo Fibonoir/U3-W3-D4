@@ -1,0 +1,33 @@
+<div class="p-8">
+  <h1 class="text-xl font-bold">SIGN UP</h1>
+
+  <form class="flex flex-col">
+    <input
+      class="border my-4 p-2 rounded"
+      type="name"
+      placeholder="Name"
+      name="name"
+      [(ngModel)]="formData.name"
+    />
+    <input
+      class="border my-4 p-2 rounded"
+      type="email"
+      placeholder="Email"
+      name="email"
+      [(ngModel)]="formData.email"
+    />
+    <input
+      class="border my-4 p-2 rounded"
+      type="password"
+      placeholder="Password"
+      name="password"
+      [(ngModel)]="formData.password"
+    />
+    <button
+      class="px-4 py-2 bg-sky-600 text-white font-bold w-1/3 mx-auto rounded"
+      (click)="register()"
+    >
+      Sign Up
+    </button>
+  </form>
+</div>
