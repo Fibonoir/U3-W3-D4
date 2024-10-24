@@ -23,6 +23,20 @@
       "password": "$2a$10$NWWmziNDWTTrslZ2esgLrO4M.IVTCUoEkp9WP7jjpmGnyYax7EuPm",
       "name": "giovanni",
       "id": 4
+    },
+    {
+      "email": "fake4@gmail.com",
+      "password": "$2a$10$s/mCQb0NhgYGRqGy78g8M.cMjR/8a/yJjAmHsnS9lpCl7m/xOfFvW",
+      "name": "fake",
+      "confirmPassword": "password",
+      "id": 5
+    },
+    {
+      "email": "fake5@gmail.com",
+      "password": "$2a$10$4dFxtfNCPoD1RSLk3oH.TO45NVgawQKyphUQzn5Wt5wPueQvXspQG",
+      "name": "fake5",
+      "confirmPassword": "password",
+      "id": 6
     }
   ]
 }
